@@ -97,12 +97,12 @@ Five datasets spread across sheets in an Excel file:
 
 ## 📊 Analysis Covered
 
-### Task 1 — Data Loading and Understanding
+### Task 1 - Data Loading and Understanding
 - Load all 5 datasets; display first/last/middle rows and every 10th row.
 - Summary statistics, data types, and missing value analysis for each dataset.
 - Total state and district counts; state with the highest number of districts.
 
-### Task 2 — Exploratory Data Analysis (EDA)
+### Task 2 - Exploratory Data Analysis (EDA)
 - Total transactions and amount per state over time; top 5 and bottom 5 by volume.
 - Most common transaction type per state and quarter.
 - Device brand with the highest registered users per state.
@@ -112,22 +112,22 @@ Five datasets spread across sheets in an Excel file:
 - Transaction type distribution for the most recent quarter (bar chart).
 - Unique district name ↔ district code mapping exported as CSV.
 
-### Task 3 — Data Quality Checks
+### Task 3 - Data Quality Checks
 - Aggregate district-level totals (transactions, amount, registered users) per state.
 - Compare with state-level figures to surface any discrepancies.
 
-### Task 4 — Data Merging and Advanced Analysis
+### Task 4 - Data Merging and Advanced Analysis
 - Ratio of registered users to population per state (column chart).
 - Correlation between population density and transaction volume (scatter plot).
 - Average transaction amount per user per state; top 5 and bottom 5.
 - Device brand usage ratio per state (bar chart).
 
-### Task 5 — Data Visualization
+### Task 5 - Data Visualization
 - Line plot: total transactions and amount over time for a selected state.
 - Pie chart: transaction type distribution for a selected state and quarter.
 - Bar plot: population density of districts in a selected state.
 
-### Task 6 — Insights and Conclusions
+### Task 6 - Insights and Conclusions
 - Trends and patterns identified from transaction time-series data.
 - Demographic correlations (population density vs. transaction volume).
 - Summary of key findings and actionable recommendations.
