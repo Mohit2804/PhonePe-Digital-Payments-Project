@@ -7,7 +7,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-9cf?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red?style=flat&logo=jupyter)
 
-A comprehensive Python-based data analysis of PhonePe transaction data, user behavior, device usage, and demographic correlations across Indian states and districts — spanning multiple years and quarters.
+A comprehensive Python-based data analysis of PhonePe transaction data, user behavior, device usage, and demographic correlations across Indian states and districts - spanning multiple years and quarters.
 
 ---
 
