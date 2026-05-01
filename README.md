@@ -2,8 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical-yellow?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-9cf?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red?style=flat&logo=jupyter)
 
 A comprehensive Python-based data analysis of PhonePe transaction data, user behavior, device usage, and demographic correlations across Indian states and districts — spanning multiple years and quarters.
@@ -18,7 +19,7 @@ PhonePe is one of India's leading digital payments platforms. This case study ex
 
 ## 🎯 Objectives
 
-- **Practical Python** - Apply Pandas, Matplotlib, and NumPy on real-world fintech data.
+- **Practical Python** - Apply Pandas, Matplotlib, Seaborn and NumPy on real-world fintech data.
 - **Insightful Analysis** - Understand transaction trends, user behavior, and demographic correlations across India.
 - **Skill Development** - Build confidence handling multi-sheet Excel datasets with state and district granularity.
 
